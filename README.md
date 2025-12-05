@@ -2,6 +2,8 @@
 
 Türkiye Gelir İdaresi Başkanlığı (GİB) e-Arşiv Fatura sistemi ile entegrasyon sağlayan MCP sunucusu.
 
+📝 **[Read the full story on Medium](https://medium.com/@reyhansunduk/claude-desktop-ile-e-fatura-y%C3%B6netimi-ai-asistan%C4%B1n%C4%B1z-b0527a2d825b)** (Turkish)
+
 [English](#english) | [Türkçe](#türkçe)
 
 ---
